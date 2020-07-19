@@ -669,6 +669,14 @@ background-attachment: fixed;
     -o-background-size: 100% 100%;
     background-size: 100%;
     background-repeat: no-repeat;
-    height: 240px;
+    height: 220px;
 
+}
+.navbar-brand>img {
+    height: 320%;
+    width: auto;
+
+}
+.navbar-brand {
+    height: 60px;
 }
